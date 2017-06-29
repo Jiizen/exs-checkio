@@ -2,7 +2,7 @@
  * Created by Jiizen on 28.06.2017.
  */
 
-// Exercice Fizz Buzz : https://js.checkio.org/mission/fizz-buzz/
+// Jiizen - Exercice Fizz Buzz : https://js.checkio.org/mission/fizz-buzz/
 
 function fizzBuzz(nb) {
     if(typeof nb === 'number') {
